@@ -8,15 +8,402 @@
   </url>
   
   <url>
-    <loc>https://sheremetat.dev/categories/</loc>
+    <loc>https://sheremetat.dev/tags/golang/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/graphql/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/microservices/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sheremetat.dev/tags/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sheremetat.dev/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e8/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE/</loc>
+    <lastmod>2020-05-17T20:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/go/</loc>
+    <lastmod>2020-05-02T19:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/kubernetes/</loc>
+    <lastmod>2020-05-02T19:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/software/</loc>
+    <lastmod>2020-05-02T19:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e7/</loc>
+    <lastmod>2020-05-02T19:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/</loc>
+    <lastmod>2020-05-02T19:08:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e6/</loc>
+    <lastmod>2020-04-21T21:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/covid-19/</loc>
+    <lastmod>2020-04-10T18:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e5/</loc>
+    <lastmod>2020-04-10T18:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/fwh/</loc>
+    <lastmod>2020-03-22T16:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e4/</loc>
+    <lastmod>2020-03-22T16:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/agile/</loc>
+    <lastmod>2019-11-03T16:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/architecture/</loc>
+    <lastmod>2019-11-03T16:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/kanban/</loc>
+    <lastmod>2019-11-03T16:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/kpi/</loc>
+    <lastmod>2019-11-03T16:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/scrum/</loc>
+    <lastmod>2019-11-03T16:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e3/</loc>
+    <lastmod>2019-11-03T16:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/kafka/</loc>
+    <lastmod>2019-10-20T17:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e2/</loc>
+    <lastmod>2019-10-20T17:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/</loc>
+    <lastmod>2019-10-20T17:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/nginx/</loc>
+    <lastmod>2019-10-06T17:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/traefik/</loc>
+    <lastmod>2019-10-06T17:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s2e1/</loc>
+    <lastmod>2019-10-06T17:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/go2/</loc>
+    <lastmod>2018-09-16T15:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e9/</loc>
+    <lastmod>2018-09-16T15:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/mongodb/</loc>
+    <lastmod>2018-07-15T12:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/podcast/</loc>
+    <lastmod>2018-07-15T12:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e8/</loc>
+    <lastmod>2018-07-15T12:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/courses/</loc>
+    <lastmod>2017-12-07T20:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e7/</loc>
+    <lastmod>2017-12-07T20:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BA%D1%83%D1%80%D1%81%D0%B8/</loc>
+    <lastmod>2017-12-07T20:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D1%81%D0%B2%D1%96%D1%82%D0%B0/</loc>
+    <lastmod>2017-12-07T20:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e6/</loc>
+    <lastmod>2017-10-25T17:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D1%87%D0%B8%D1%81%D1%82%D0%B8%D0%B9-%D0%BA%D0%BE%D0%B4/</loc>
+    <lastmod>2017-10-25T17:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/certification/</loc>
+    <lastmod>2017-09-25T19:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/pmi/</loc>
+    <lastmod>2017-09-25T19:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/pmi-acp/</loc>
+    <lastmod>2017-09-25T19:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e5/</loc>
+    <lastmod>2017-09-25T19:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/coco/</loc>
+    <lastmod>2017-09-11T21:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/microsoft/</loc>
+    <lastmod>2017-09-11T21:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e4/</loc>
+    <lastmod>2017-09-11T21:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD/</loc>
+    <lastmod>2017-09-11T21:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/blockchain/</loc>
+    <lastmod>2017-08-27T09:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/smartcontracts/</loc>
+    <lastmod>2017-08-27T09:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e3/</loc>
+    <lastmod>2017-08-27T09:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%BE%D0%B2%D0%B0-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D1%8F/</loc>
+    <lastmod>2017-08-27T09:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/rest/</loc>
+    <lastmod>2017-08-14T13:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e2/</loc>
+    <lastmod>2017-08-14T13:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/</loc>
+    <lastmod>2017-08-13T12:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/bot/</loc>
+    <lastmod>2017-08-13T12:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/slack/</loc>
+    <lastmod>2017-08-13T12:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D1%81%D1%82%D0%B2%D0%BE%D1%80%D1%8E%D1%94%D0%BC%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D0%BE-slack-%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0-go/</loc>
+    <lastmod>2017-08-13T12:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/podcast/s1e1/</loc>
+    <lastmod>2017-08-07T17:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/project-management/</loc>
+    <lastmod>2017-08-06T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</loc>
+    <lastmod>2017-08-06T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82/</loc>
+    <lastmod>2017-08-06T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</loc>
+    <lastmod>2017-08-06T16:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/android/</loc>
+    <lastmod>2015-01-24T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/screencast/</loc>
+    <lastmod>2015-01-24T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/test-case/</loc>
+    <lastmod>2015-01-24T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/testing/</loc>
+    <lastmod>2015-01-24T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D1%81%D0%BA%D1%80%D1%96%D0%BD%D0%BA%D0%B0%D1%81%D1%82-%D0%B2%D1%81%D1%82%D1%83%D0%BF-%D0%B4%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%96%D0%B2-%D0%B4%D0%BB%D1%8F-android/</loc>
+    <lastmod>2015-01-24T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/</loc>
+    <lastmod>2015-01-24T21:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/pmp/</loc>
+    <lastmod>2014-11-14T17:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</loc>
+    <lastmod>2014-11-14T17:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B0%D1%88%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%82%D0%B0-%D1%96%D0%BD%D1%88%D1%96-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-%D1%81%D1%84%D0%B5%D1%80%D1%96-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</loc>
+    <lastmod>2014-11-14T16:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B0-%D1%81%D0%BB%D1%96%D0%B2-%D0%BF%D1%80%D0%BE-%D0%BC%D1%96%D1%81%D1%96%D1%8E-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97/</loc>
+    <lastmod>2013-05-29T10:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BB%D1%96%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE/</loc>
+    <lastmod>2013-05-29T10:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D0%BC%D1%96%D1%81%D1%96%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97/</loc>
+    <lastmod>2013-05-29T10:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</loc>
+    <lastmod>2013-05-29T10:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/blog/%D0%B4%D0%B2%D1%96-%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%96%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE/</loc>
+    <lastmod>2013-05-12T10:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/tags/%D1%87%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D0%B7%D0%B0%D0%BB/</loc>
+    <lastmod>2013-05-12T10:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheremetat.dev/categories/</loc>
   </url>
   
 </urlset>

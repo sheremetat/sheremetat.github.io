@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on Taras Sheremeta</title>
+    <link>https://sheremetat.dev/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Taras Sheremeta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 02 May 2020 19:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sheremetat.dev/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Випуск #16: Не тільки про Golang: хто такий fullstack девелопер?</title>
+      <link>https://sheremetat.dev/podcast/s2e7/</link>
+      <pubDate>Sat, 02 May 2020 19:08:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s2e7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #14: Хроніки карантинного режиму і Kubernetes</title>
+      <link>https://sheremetat.dev/podcast/s2e5/</link>
+      <pubDate>Fri, 10 Apr 2020 18:31:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s2e5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>менторство on Taras Sheremeta</title>
+    <link>https://sheremetat.dev/tags/%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE/</link>
+    <description>Recent content in менторство on Taras Sheremeta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sheremetat.dev/tags/%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Випуск #17: Для чого нам курси, менторство і про ускладнення простих речей</title>
+      <link>https://sheremetat.dev/podcast/s2e8/</link>
+      <pubDate>Sun, 17 May 2020 20:33:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s2e8/</guid>
+      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:
+ Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon</description>
+    </item>
+    
+    <item>
+      <title>Випуск #9: Go2, Менторство, Відміна GraphQL</title>
+      <link>https://sheremetat.dev/podcast/s1e9/</link>
+      <pubDate>Sun, 16 Sep 2018 15:11:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

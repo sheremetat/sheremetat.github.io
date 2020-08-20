@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on Taras Sheremeta</title>
+    <link>https://sheremetat.dev/tags/podcast/</link>
+    <description>Recent content in podcast on Taras Sheremeta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:49:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sheremetat.dev/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Випуск #8: Ламповий Pet Project</title>
+      <link>https://sheremetat.dev/podcast/s1e8/</link>
+      <pubDate>Sun, 15 Jul 2018 12:49:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #7: Вічний студент</title>
+      <link>https://sheremetat.dev/podcast/s1e7/</link>
+      <pubDate>Thu, 07 Dec 2017 20:09:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #6: Запахологія коду</title>
+      <link>https://sheremetat.dev/podcast/s1e6/</link>
+      <pubDate>Wed, 25 Oct 2017 17:31:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #5: Agile сертифікація: що і до чого</title>
+      <link>https://sheremetat.dev/podcast/s1e5/</link>
+      <pubDate>Mon, 25 Sep 2017 19:13:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #4: Знову про блокчейн, але не тільки</title>
+      <link>https://sheremetat.dev/podcast/s1e4/</link>
+      <pubDate>Mon, 11 Sep 2017 21:06:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #3: Смарт-Контракти</title>
+      <link>https://sheremetat.dev/podcast/s1e3/</link>
+      <pubDate>Sun, 27 Aug 2017 09:43:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #2: GraphQL vs. REST</title>
+      <link>https://sheremetat.dev/podcast/s1e2/</link>
+      <pubDate>Mon, 14 Aug 2017 13:47:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Випуск #1: Децентралізовані програми та блокчейн</title>
+      <link>https://sheremetat.dev/podcast/s1e1/</link>
+      <pubDate>Mon, 07 Aug 2017 17:15:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

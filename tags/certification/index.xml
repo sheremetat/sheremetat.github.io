@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>certification on Taras Sheremeta</title><link>https://sheremetat.dev/tags/certification/</link><description>Recent content in certification on Taras Sheremeta</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 25 Sep 2017 19:13:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/certification/index.xml" rel="self" type="application/rss+xml"/><item><title>Випуск #5: Agile сертифікація: що і до чого</title><link>https://sheremetat.dev/podcast/s1e5/</link><pubDate>Mon, 25 Sep 2017 19:13:00 +0000</pubDate><guid>https://sheremetat.dev/podcast/s1e5/</guid><description/></item><item><title>Сертифікат про проходження тренінгу Project Management Fundamentals</title><link>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</link><pubDate>Fri, 14 Nov 2014 17:10:00 +0000</pubDate><guid>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>certification on Taras Sheremeta</title>
+    <link>https://sheremetat.dev/tags/certification/</link>
+    <description>Recent content in certification on Taras Sheremeta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 25 Sep 2017 19:13:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sheremetat.dev/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Випуск #5: Agile сертифікація: що і до чого</title>
+      <link>https://sheremetat.dev/podcast/s1e5/</link>
+      <pubDate>Mon, 25 Sep 2017 19:13:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/podcast/s1e5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сертифікат про проходження тренінгу Project Management Fundamentals</title>
+      <link>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</link>
+      <pubDate>Fri, 14 Nov 2014 17:10:00 +0000</pubDate>
+      
+      <guid>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

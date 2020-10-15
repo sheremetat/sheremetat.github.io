@@ -17,7 +17,8 @@
       <pubDate>Sun, 03 Nov 2019 16:27:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e3/</guid>
-      <description></description>
+      <description>У випуску говоримо про:
+ Чого мені не вистачає в Go:  Map/Reduce і map(), reduce(), filter() функції в slice і map Generics Named parameters Ternary operator async/await checked exceptions   Архітектура системи: AWS stack vs no vendor lock  DevOps driven architecture serverless architecture і vendor lock   Роздуми про КРІ  М.Дорофеев Шухарт, 6-сигма и люди снежинки с руками из жопы (Скрамомер и канбанометр) М.</description>
     </item>
     
   </channel>

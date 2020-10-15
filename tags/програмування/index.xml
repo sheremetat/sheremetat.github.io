@@ -17,7 +17,8 @@
       <pubDate>Sat, 02 May 2020 19:08:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e7/</guid>
-      <description></description>
+      <description>У випуску говоримо про:
+ Два слова про статистику і про методи тлумачення результатів статистичних досліджень Чи треба гоферу знати фронтенд? Хто такий fullstack девелопер і чому за ними майбутнє? Чому фулстак-2020 це не тільки бек і фронт, а ще і Docker, Kubernetes, DevOps, AWS? Запитання від Junior Go Developers: як менеджити групу паралельно запущених goroutines (про sync/errgroup і worker pool)? Запитання для співбесіди senior інженера: як ви оптимізуєте запити в базу даних (explain, profiler)?</description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@
       <pubDate>Sun, 20 Oct 2019 17:27:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e2/</guid>
-      <description></description>
+      <description>Kafka тепер база даних? За мотивами Kafka Summit 2019: Why I Recommend My Clients NOT Use KSQL and Kafka Streams Стримінг і батч процессінг: є різниця. Обробка даних по одному чи &amp;ldquo;пачками&amp;rdquo;, подорожі в часі при обробці історичних даних. Принцип «KISS» Новини мого pet project: React vs Angular очима бекендера Дейв Чейні про internal packages Починайте уявляючи кінцевий результат Квантовий комп&amp;rsquo;ютер тоді і зараз Книга випуску Jyotiswarup Raiturkar Hands-On Software Architecture with Golang Відповідь на питання про Го в Україні    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -35,7 +36,7 @@
       <pubDate>Sun, 06 Oct 2019 17:18:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e1/</guid>
-      <description></description>
+      <description>Рік на новій роботі: Golang тепер основна, висновки після року використання Traefik рулить Домашній проект заглох. Новый Pet Project цього разу серйозно.  проект на Indie Hackers landing page https://pe360.online/   Вибір бази даних та побудова архітектури. Порти і адаптери: гексагональна архітектура  Ports-And-Adapters / Hexagonal Architecture Подкаст Подлодка про DDD   Книга випуску про вади команди Пaтpiк Лeнcioнi &amp;ldquo;П&amp;rsquo;ять вaд у poбoтi кoмaнди. Icтopiї peaльниx викликiв тa пepeмoг&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
   </channel>

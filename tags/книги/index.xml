@@ -17,7 +17,7 @@
       <pubDate>Sun, 20 Oct 2019 17:27:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e2/</guid>
-      <description></description>
+      <description>Kafka тепер база даних? За мотивами Kafka Summit 2019: Why I Recommend My Clients NOT Use KSQL and Kafka Streams Стримінг і батч процессінг: є різниця. Обробка даних по одному чи &amp;ldquo;пачками&amp;rdquo;, подорожі в часі при обробці історичних даних. Принцип «KISS» Новини мого pet project: React vs Angular очима бекендера Дейв Чейні про internal packages Починайте уявляючи кінцевий результат Квантовий комп&amp;rsquo;ютер тоді і зараз Книга випуску Jyotiswarup Raiturkar Hands-On Software Architecture with Golang Відповідь на питання про Го в Україні    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 06 Oct 2019 17:18:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e1/</guid>
-      <description></description>
+      <description>Рік на новій роботі: Golang тепер основна, висновки після року використання Traefik рулить Домашній проект заглох. Новый Pet Project цього разу серйозно.  проект на Indie Hackers landing page https://pe360.online/   Вибір бази даних та побудова архітектури. Порти і адаптери: гексагональна архітектура  Ports-And-Adapters / Hexagonal Architecture Подкаст Подлодка про DDD   Книга випуску про вади команди Пaтpiк Лeнcioнi &amp;ldquo;П&amp;rsquo;ять вaд у poбoтi кoмaнди. Icтopiї peaльниx викликiв тa пepeмoг&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -35,7 +35,10 @@
       <pubDate>Sun, 16 Sep 2018 15:11:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e9/</guid>
-      <description></description>
+      <description>Сьогодні говоримо про таке:
+ Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon
+Я в соціальних мережах:</description>
     </item>
     
     <item>
@@ -44,7 +47,9 @@
       <pubDate>Sun, 15 Jul 2018 12:49:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e8/</guid>
-      <description></description>
+      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:
+ Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon</description>
     </item>
     
     <item>
@@ -53,7 +58,8 @@
       <pubDate>Thu, 07 Dec 2017 20:09:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e7/</guid>
-      <description></description>
+      <description>Знову після невеличкої перерви до вашої уваги сьомий випуск мого подкасту! Сьогодні говоримо про таке:
+ Для чого потрібно навчатись програмісту (відсебеньки) Ресурси для навчанняЖ  Udemy - від $10-15 за курс Pluralsight https://www.linkedin.com/learning/ Mongo University - безкоштовно Coursera Udacity Prometheus   Запитання слухачів: для чого нам Go? Книга випуску Скорочтение на практике. Как читать быстро и хорошо запоминать прочитанное Павел Палагин    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -62,7 +68,8 @@
       <pubDate>Wed, 25 Oct 2017 17:31:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e6/</guid>
-      <description></description>
+      <description>Після невеличкої перерви до вашої уваги шостий випуск мого подкасту! Сьогодні говоримо про:
+ Запахи коду - серія статей в блозі компанії JetBrains  Null Deeply nested code Iteration Mutation Multi-responsibility methods If statements To many problems   Коли зупиняється Scrum - готуємо реліз до продакшну (відсебенька) Чому Agile ніколи не працює? Книга випуску Мудакам тут не місце. Як вижити в офісних джунглях Роберт Саттон    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -71,7 +78,11 @@
       <pubDate>Mon, 25 Sep 2017 19:13:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e5/</guid>
-      <description></description>
+      <description>Вже п`ятий випуск мого подкасту! Сьогодні ні слова про блокчейн :). Говоримо про:&amp;lt;
+ Сертифікація менеджерів PMI-ACP Книга випуску - Найбагатший чоловік у Вавилоні Джордж Клейсон    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon
+Я в соціальних мережах:
+ Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
     </item>
     
     <item>
@@ -80,7 +91,11 @@
       <pubDate>Mon, 11 Sep 2017 21:06:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e4/</guid>
-      <description></description>
+      <description>Четвертий випуск мого подкасту. Сьогодні я знову говорив про блокчейн :)
+ За пределами скучного блокчейн-пузыря Microsoft Announces Blockchain Governance Framework – Coco Сертифікація менеджерів - PMI-ACP Книга випуску - &amp;ldquo;Продається все. Джефф Безос та ера Amazon&amp;rdquo; Бред Стоун    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon
+Я в соціальних мережах:
+ Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
     </item>
     
     <item>
@@ -89,7 +104,12 @@
       <pubDate>Sun, 27 Aug 2017 09:43:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e3/</guid>
-      <description></description>
+      <description>Третій випуск мого подкасту. Знову дещо сумбурним вийшов :(. Буду виправлятись в наступних випусках!
+Сьогодні я говорив про:
+ Смарт-контракти або розумні контракти “Бульбашка” блокчейну Книга випуску Сохер Рокед “Людина втомлена” Фільм &amp;ldquo;Цукор&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon
+Я в соціальних мережах:
+ Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
     </item>
     
     <item>
@@ -98,7 +118,11 @@
       <pubDate>Mon, 14 Aug 2017 13:47:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e2/</guid>
-      <description></description>
+      <description>Другий випуск мого подкасту. Сьогодні я говорив про:
+ Попередній випуск вийшов сумбурним Тепер і в iTunes REST vs GraphQL Тести в Facebook та безпека Книга випуску Донна Тартр Щиголь    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon
+Я в соціальних мережах:
+ Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
     </item>
     
     <item>
@@ -107,7 +131,11 @@
       <pubDate>Mon, 07 Aug 2017 17:15:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s1e1/</guid>
-      <description></description>
+      <description>Записав перший випуск подкасту про децентралізовані програми та блокчейн. Сьогодні я говорив про:
+ Golang і для чого він мені Децентралізовані програми - майбутнє нашого інтернету IPFS - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. Книга Чому нації занепадають?&amp;quot;(Джеймс Робінсон, Дарон Аджемоглу)    Слухайте та підписуйтесь по RSS або в itunes
+Допомога подкасту на Patreon
+Я в соціальних мережах:
+ Goodreads Telegram Twitter Facebook  Music by http://www.</description>
     </item>
     
     <item>
@@ -116,7 +144,8 @@
       <pubDate>Wed, 29 May 2013 10:35:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/blog/%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B0-%D1%81%D0%BB%D1%96%D0%B2-%D0%BF%D1%80%D0%BE-%D0%BC%D1%96%D1%81%D1%96%D1%8E-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97/</guid>
-      <description></description>
+      <description>На сайтах багатьох компаній можна побачити розділ &amp;ldquo;наша місія&amp;rdquo;. Місію компанії друкують на рекламних буклетах, фірмових чашках чи біля логотипу на ресепшині. Там, як правило, написано одне або більше речень. Часто це абсолютно конкретні і чіткі цілі компанії, а інколи загальні фрази без конкретики.
+Публікація місії компанії несе в собі певну задачу і це задача переконати користувачів чи потенційних клієнтів в надійності компанії. Текст, закладений в місію, повинен інформувати та переконувати в тому, що компанія зробить все можливе, для задоволення потреб своїх клієнтів.</description>
     </item>
     
     <item>
@@ -125,7 +154,7 @@
       <pubDate>Sun, 12 May 2013 10:18:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/blog/%D0%B4%D0%B2%D1%96-%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%96%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE/</guid>
-      <description></description>
+      <description>Не так давно я брав участь у тренінгу про лідерство. Сам тренінг мені не сподобався. По-перше, тренер практично не робив висновків після практичних занять. По-друге, теорія була сильно &amp;ldquo;водяниста&amp;rdquo; і слабо структурована. Можливо, в цьому пункті в силу своєї професії, я помиляюсь. :). По-третє, тренінг мені видався нецікавим. Проте він сформував великий список запитань, на які потрібно було знайти відповіді. Хто такий лідер? Як стати лідером? Яка різниця між лідерством і управлінням?</description>
     </item>
     
   </channel>

@@ -17,7 +17,8 @@
       <pubDate>Sat, 02 May 2020 19:08:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e7/</guid>
-      <description></description>
+      <description>У випуску говоримо про:
+ Два слова про статистику і про методи тлумачення результатів статистичних досліджень Чи треба гоферу знати фронтенд? Хто такий fullstack девелопер і чому за ними майбутнє? Чому фулстак-2020 це не тільки бек і фронт, а ще і Docker, Kubernetes, DevOps, AWS? Запитання від Junior Go Developers: як менеджити групу паралельно запущених goroutines (про sync/errgroup і worker pool)? Запитання для співбесіди senior інженера: як ви оптимізуєте запити в базу даних (explain, profiler)?</description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Fri, 10 Apr 2020 18:31:00 +0000</pubDate>
       
       <guid>https://sheremetat.dev/podcast/s2e5/</guid>
-      <description></description>
+      <description>У випуску говоримо про:
+ Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;rdquo; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
   </channel>

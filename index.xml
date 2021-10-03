@@ -6,18 +6,24 @@
     <description>Recent content on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sheremetat.dev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://sheremetat.dev/about/</link>
       <pubDate>Wed, 19 Aug 2020 21:34:26 +0300</pubDate>
       
       <guid>https://sheremetat.dev/about/</guid>
-      <description>Test about</description>
+      <description>Software Engineer with 15+ years background in the industry (7+ years in Java, 3+ years in Golang). During my career, I&amp;rsquo;ve designed and implemented software solutions for different platforms including web, mobile, desktop, and embedded systems. The past few years worked with high loaded applications with real-time pipelines using Golang, Java, Spring Boot, Kafka, Kafka Streams, AWS, etc. I’m a big fun of microservices architecture. Finished several projects as a developer and as a project leader.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://sheremetat.dev/projects/</link>
+      <pubDate>Wed, 19 Aug 2020 21:34:26 +0300</pubDate>
+      
+      <guid>https://sheremetat.dev/projects/</guid>
+      <description>PE360 Online: Know your team. Measure performance. Obtain feedback. Performance Evaluation is defined as a formal procedure to measure an employee’s work and results based on their job responsibilities. PE360 Online provides all the required tools to make this process easy and simple.
+When I&amp;rsquo;ve been just a developer (and then team leader) in one of the Kyiv companies, every 6 months we had the performance evaluation HR meeting. Before this meeting developer and team leader have to fill a few questionaries in Excel format and then calculate developer performance at the meeting.</description>
     </item>
     
     <item>
@@ -58,7 +64,7 @@
       
       <guid>https://sheremetat.dev/podcast/s2e5/</guid>
       <description>У випуску говоримо про:
- Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;rdquo; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
+ Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -106,7 +112,7 @@
       
       <guid>https://sheremetat.dev/podcast/s1e9/</guid>
       <description>Сьогодні говоримо про таке:
- Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
+ Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot;    Слухайте та підписуйтесь по RSS або в itunes
 Допомога подкасту на Patreon
 Я в соціальних мережах:</description>
     </item>

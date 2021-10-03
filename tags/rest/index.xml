@@ -6,11 +6,7 @@
     <description>Recent content in rest on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Aug 2017 13:47:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sheremetat.dev/tags/rest/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 14 Aug 2017 13:47:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #2: GraphQL vs. REST</title>
       <link>https://sheremetat.dev/podcast/s1e2/</link>

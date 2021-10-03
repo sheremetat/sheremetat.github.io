@@ -6,11 +6,7 @@
     <description>Recent content in книги on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Oct 2019 17:27:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sheremetat.dev/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 20 Oct 2019 17:27:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #11: Про Kafka Summit 2019 и Квантовий Комп&#39;ютер</title>
       <link>https://sheremetat.dev/podcast/s2e2/</link>
@@ -36,7 +32,7 @@
       
       <guid>https://sheremetat.dev/podcast/s1e9/</guid>
       <description>Сьогодні говоримо про таке:
- Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
+ Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot;    Слухайте та підписуйтесь по RSS або в itunes
 Допомога подкасту на Patreon
 Я в соціальних мережах:</description>
     </item>

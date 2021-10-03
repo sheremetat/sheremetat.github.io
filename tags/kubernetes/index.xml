@@ -6,11 +6,7 @@
     <description>Recent content in Kubernetes on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 May 2020 19:08:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sheremetat.dev/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 02 May 2020 19:08:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #16: Не тільки про Golang: хто такий fullstack девелопер?</title>
       <link>https://sheremetat.dev/podcast/s2e7/</link>
@@ -28,7 +24,7 @@
       
       <guid>https://sheremetat.dev/podcast/s2e5/</guid>
       <description>У випуску говоримо про:
- Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;rdquo; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
+ Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
   </channel>

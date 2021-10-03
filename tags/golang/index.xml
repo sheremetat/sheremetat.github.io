@@ -6,11 +6,7 @@
     <description>Recent content in Golang on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sheremetat.dev/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #17: Для чого нам курси, менторство і про ускладнення простих речей</title>
       <link>https://sheremetat.dev/podcast/s2e8/</link>
@@ -49,7 +45,7 @@
       
       <guid>https://sheremetat.dev/podcast/s2e5/</guid>
       <description>У випуску говоримо про:
- Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;rdquo; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
+ Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
     
     <item>
@@ -88,7 +84,7 @@
       
       <guid>https://sheremetat.dev/podcast/s1e9/</guid>
       <description>Сьогодні говоримо про таке:
- Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
+ Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot;    Слухайте та підписуйтесь по RSS або в itunes
 Допомога подкасту на Patreon
 Я в соціальних мережах:</description>
     </item>

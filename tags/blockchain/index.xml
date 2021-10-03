@@ -6,11 +6,7 @@
     <description>Recent content in blockchain on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Aug 2017 09:43:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sheremetat.dev/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 27 Aug 2017 09:43:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #3: Смарт-Контракти</title>
       <link>https://sheremetat.dev/podcast/s1e3/</link>

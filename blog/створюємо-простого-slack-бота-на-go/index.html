@@ -1,61 +1,64 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <head>
 
-<meta name="description" content="Golang Java Kafka Podcast Agile">
-<meta name="keywords" content="kafka,golang,go,java,podcast,developer,agile">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>
-  Taras Sheremeta - Створюємо простого Slack бота на Go 
-</title>
+        
+        <meta name="description" content="Golang Java Kafka Podcast Agile">
+        
+        <meta name="keywords" content="kafka,golang,go,java,podcast,developer,agile">
 
-<meta name="generator" content="Hugo 0.88.1" />
+        <title>
+              Taras Sheremeta - Створюємо простого Slack бота на Go 
+        </title>
 
+        <meta name="generator" content="Hugo 0.122.0">
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+        
 
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Roboto+Slab:wght@400;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+        <link rel="stylesheet" href="https://sheremetat.dev/css/main.css">
+        <link rel="stylesheet" href="https://sheremetat.dev/css/custom.css">
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400|Roboto+Slab:400,700|Roboto:300,300i,400,400i,500,500i,700,700i">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-<link rel="stylesheet" href="https://sheremetat.dev/css/main.css">
-<link rel="stylesheet" href="https://sheremetat.dev/css/custom.css">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <meta name="theme-color" content="#ffffff"></head>
 
+    <body lang="en-US">
+        <div class="container my-auto">
 
-
-
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/ico" href="/favicon-32x32.ico" sizes="32x32">
-<link rel="icon" type="image/ico" href="/favicon-16x16.ico" sizes="16x16">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="theme-color" content="#ffffff">
-
-</head>
-<body lang="en-US">
-<div class="container">
-
-
-<header class="row text-left title">
+<header class="text-start title">
   <h1 class="title">Створюємо простого Slack бота на Go</h1>
 </header>
-<section id="category-pane" class="row meta">
+
+<section id="category-pane" class="meta">
   
-  <div class="col-md-12">
-    <h6 class="text-left meta">
-        PUBLISHED ON AUG 13, 2017 
+  <div class="d-flex flex-column flex-md-row justify-content-between">
+    <h6 class="text-start meta">
+       PUBLISHED ON AUG 13, 2017
+      
+      / 3 MIN READ
       
     </h6>
   </div>
   
 </section>
-<section id="content-pane" class="row">
-  <div class="col-md-12 text-justify content">
+
+<section id="content-pane">
+  <div class="text-justify content">
     
     <nav id="TableOfContents">
   <ul>
@@ -73,7 +76,7 @@
     
 <figure style="text-align: center; margin: 10px;">
     
-        <img width="50%" src="/service_512.png"  />
+        <img width="50%" src="/img/service_512.png"  />
     
  </figure>
 
@@ -89,7 +92,7 @@
 
 <figure style="text-align: center; margin: 10px;">
     
-        <img width="80%" src="/slack_bot_create.png"  />
+        <img width="80%" src="/img/slack_bot_create.png"  />
     
  </figure>
 
@@ -97,7 +100,7 @@
 
 <figure style="text-align: center; margin: 10px;">
     
-        <img width="80%" src="/Slack_bot_2.png"  />
+        <img width="80%" src="/img/Slack_bot_2.png"  />
     
  </figure>
 
@@ -106,80 +109,84 @@
 
 <figure style="text-align: center; margin: 10px;">
     
-        <img width="40%" src="/Slack_bot_struct.png"  />
+        <img width="40%" src="/img/Slack_bot_struct.png"  />
     
  </figure>
 
 <p>Для простоти можна проігнорувати створення файлу конфігурації config.xml і вичитування його в момент запуску додатку. Роботу з ним можна подивитись в репозиторій проекту. В прикладах цього проекту ми будемо всі параметри &ldquo;хардкодити&rdquo;. Також весь код може бути написаний в методі <em>main()</em> проекту, а не розкиданим по пакетах як в репозиторії.</p>
 <p>Спочатку ініціюємо бібліотеку з фактами:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Go" data-lang="Go"><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
-
-<span style="color:#f92672">import</span> (
-    <span style="color:#a6e22e">facts</span> <span style="color:#e6db74">&#34;github.com/sheremetat/randfacts-lib&#34;</span>
-)
-
-<span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
-    <span style="color:#a6e22e">factLib</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">facts</span>.<span style="color:#a6e22e">Init</span>(<span style="color:#e6db74">&#34;./facts&#34;</span>)
-    <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
-	<span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Errorf</span>(<span style="color:#e6db74">&#34;Error in main():  %v&#34;</span>, <span style="color:#a6e22e">err</span>)
-	panic(<span style="color:#e6db74">&#34;Error in main(): &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">err</span>.<span style="color:#a6e22e">Error</span>())
-    }
-	<span style="color:#f92672">...</span>
-</code></pre></div><p>Тепер напишемо самого бота. Доповнюємо <em>main()</em>. У фрагменті коду є коментарі, які описують, що саме там відбувається:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Go" data-lang="Go">	<span style="color:#f92672">...</span>
-    <span style="color:#75715e">// Initialization of Slack Bot
-</span><span style="color:#75715e"></span>    <span style="color:#a6e22e">api</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">New</span>(<span style="color:#e6db74">&#34;[Your Slack Bot Token]&#34;</span>)
-    <span style="color:#a6e22e">api</span>.<span style="color:#a6e22e">SetDebug</span>(<span style="color:#66d9ef">true</span>)
-    <span style="color:#75715e">// Open web socket connection
-</span><span style="color:#75715e"></span>    <span style="color:#a6e22e">rtm</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">api</span>.<span style="color:#a6e22e">NewRTM</span>()
-    <span style="color:#66d9ef">go</span> <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">ManageConnection</span>()
-    <span style="color:#75715e">// Reading events from Slack
-</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">msg</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">IncomingEvents</span> {
-        <span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#e6db74">&#34;Event Received: &#34;</span>)
-        <span style="color:#66d9ef">switch</span> <span style="color:#a6e22e">ev</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">msg</span>.<span style="color:#a6e22e">Data</span>.(<span style="color:#66d9ef">type</span>) {
-        <span style="color:#66d9ef">case</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">HelloEvent</span>:
-                <span style="color:#75715e">// Ignore hello
-</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">case</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">ConnectedEvent</span>:
-            <span style="color:#75715e">// Ignore connection event
-</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">case</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">MessageEvent</span>:
-            <span style="color:#75715e">// Processing message in channel
-</span><span style="color:#75715e"></span>            <span style="color:#a6e22e">fact</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">factLib</span>.<span style="color:#a6e22e">FindFact</span>(<span style="color:#a6e22e">ev</span>.<span style="color:#a6e22e">Msg</span>.<span style="color:#a6e22e">Text</span>)
-            <span style="color:#75715e">// Check if fact for message found
-</span><span style="color:#75715e"></span>            <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">==</span> <span style="color:#66d9ef">nil</span> <span style="color:#f92672">&amp;&amp;</span> len(<span style="color:#a6e22e">fact</span>) &gt; <span style="color:#ae81ff">0</span> {
-                <span style="color:#75715e">// Send message back to channel with fact
-</span><span style="color:#75715e"></span>                <span style="color:#a6e22e">outMsg</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">NewOutgoingMessage</span>(<span style="color:#a6e22e">fact</span>, <span style="color:#a6e22e">ev</span>.<span style="color:#a6e22e">Channel</span>)
-                <span style="color:#a6e22e">outMsg</span>.<span style="color:#a6e22e">Channel</span> = <span style="color:#a6e22e">ev</span>.<span style="color:#a6e22e">Channel</span>
-                <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">SendMessage</span>(<span style="color:#a6e22e">outMsg</span>)
-	    }
-        <span style="color:#66d9ef">default</span>:
-            <span style="color:#75715e">// Ignore other events..			
-</span><span style="color:#75715e"></span>        }
-    }
-}
-</code></pre></div><p>Залишилось зібрати та запустити нашого простого бота. Для цього в корені виконаємо дві команди з консолі:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Sh" data-lang="Sh">~$ gb build
-~$ bin/factsbot
-</code></pre></div><p>Якщо все запустилось без проблем (а я сподіваюсь, що так і було) то в вашому Slack новий користувач <em>@[ім&rsquo;я бота]</em> змінить стан на &ldquo;<em>в мережі</em>&rdquo;. Напишіть йому повідомлення з вашими словами для пошуку і отримаєте цікавий факт у відповідь.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Go" data-lang="Go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">import</span> (
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">facts</span> <span style="color:#e6db74">&#34;github.com/sheremetat/randfacts-lib&#34;</span>
+</span></span><span style="display:flex;"><span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#66d9ef">func</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">factLib</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">facts</span>.<span style="color:#a6e22e">Init</span>(<span style="color:#e6db74">&#34;./facts&#34;</span>)
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">!=</span> <span style="color:#66d9ef">nil</span> {
+</span></span><span style="display:flex;"><span>	<span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Errorf</span>(<span style="color:#e6db74">&#34;Error in main():  %v&#34;</span>, <span style="color:#a6e22e">err</span>)
+</span></span><span style="display:flex;"><span>	panic(<span style="color:#e6db74">&#34;Error in main(): &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">err</span>.<span style="color:#a6e22e">Error</span>())
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>	<span style="color:#f92672">...</span>
+</span></span></code></pre></div><p>Тепер напишемо самого бота. Доповнюємо <em>main()</em>. У фрагменті коду є коментарі, які описують, що саме там відбувається:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Go" data-lang="Go"><span style="display:flex;"><span>	<span style="color:#f92672">...</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Initialization of Slack Bot
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">api</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">New</span>(<span style="color:#e6db74">&#34;[Your Slack Bot Token]&#34;</span>)
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">api</span>.<span style="color:#a6e22e">SetDebug</span>(<span style="color:#66d9ef">true</span>)
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Open web socket connection
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#a6e22e">rtm</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">api</span>.<span style="color:#a6e22e">NewRTM</span>()
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">go</span> <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">ManageConnection</span>()
+</span></span><span style="display:flex;"><span>    <span style="color:#75715e">// Reading events from Slack
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>    <span style="color:#66d9ef">for</span> <span style="color:#a6e22e">msg</span> <span style="color:#f92672">:=</span> <span style="color:#66d9ef">range</span> <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">IncomingEvents</span> {
+</span></span><span style="display:flex;"><span>        <span style="color:#a6e22e">log</span>.<span style="color:#a6e22e">Print</span>(<span style="color:#e6db74">&#34;Event Received: &#34;</span>)
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">switch</span> <span style="color:#a6e22e">ev</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">msg</span>.<span style="color:#a6e22e">Data</span>.(<span style="color:#66d9ef">type</span>) {
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">case</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">HelloEvent</span>:
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">// Ignore hello
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">case</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">ConnectedEvent</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// Ignore connection event
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        <span style="color:#66d9ef">case</span> <span style="color:#f92672">*</span><span style="color:#a6e22e">slack</span>.<span style="color:#a6e22e">MessageEvent</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// Processing message in channel
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#a6e22e">fact</span>, <span style="color:#a6e22e">err</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">factLib</span>.<span style="color:#a6e22e">FindFact</span>(<span style="color:#a6e22e">ev</span>.<span style="color:#a6e22e">Msg</span>.<span style="color:#a6e22e">Text</span>)
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// Check if fact for message found
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>            <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">err</span> <span style="color:#f92672">==</span> <span style="color:#66d9ef">nil</span> <span style="color:#f92672">&amp;&amp;</span> len(<span style="color:#a6e22e">fact</span>) &gt; <span style="color:#ae81ff">0</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#75715e">// Send message back to channel with fact
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>                <span style="color:#a6e22e">outMsg</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">NewOutgoingMessage</span>(<span style="color:#a6e22e">fact</span>, <span style="color:#a6e22e">ev</span>.<span style="color:#a6e22e">Channel</span>)
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">outMsg</span>.<span style="color:#a6e22e">Channel</span> = <span style="color:#a6e22e">ev</span>.<span style="color:#a6e22e">Channel</span>
+</span></span><span style="display:flex;"><span>                <span style="color:#a6e22e">rtm</span>.<span style="color:#a6e22e">SendMessage</span>(<span style="color:#a6e22e">outMsg</span>)
+</span></span><span style="display:flex;"><span>	    }
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">default</span>:
+</span></span><span style="display:flex;"><span>            <span style="color:#75715e">// Ignore other events..			
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><p>Залишилось зібрати та запустити нашого простого бота. Для цього в корені виконаємо дві команди з консолі:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-Sh" data-lang="Sh"><span style="display:flex;"><span>~$ gb build
+</span></span><span style="display:flex;"><span>~$ bin/factsbot
+</span></span></code></pre></div><p>Якщо все запустилось без проблем (а я сподіваюсь, що так і було) то в вашому Slack новий користувач <em>@[ім&rsquo;я бота]</em> змінить стан на &ldquo;<em>в мережі</em>&rdquo;. Напишіть йому повідомлення з вашими словами для пошуку і отримаєте цікавий факт у відповідь.</p>
 <p>Код <a href="https://github.com/sheremetat/randfacts-lib">бібліотеки</a> та моєї <a href="https://github.com/sheremetat/slack-facts-bot">реалізації бота</a> доступні на Github.com.</p>
 <p>Програмуйте із задоволенням!</p>
 
   </div>
 </section>
-<section id="tag-pane" class="row meta">
+
+<section id="tag-pane" class="meta">
   
-  <div class="col-md-12">
-    <h6 class="text-right meta">
+  <div class="d-flex flex-column flex-md-row justify-content-between">
+    <h6 class="text-end meta">
       
       
       
       TAGS:
       
       
-      <a class="meta" href="/tags/bot">BOT</a>, 
+      <a class="meta" href="/tags/bot">BOT</a>,
       
-      <a class="meta" href="/tags/go">GO</a>, 
       
-      <a class="meta" href="/tags/golang">GOLANG</a>, 
+      <a class="meta" href="/tags/go">GO</a>,
+      
+      
+      <a class="meta" href="/tags/golang">GOLANG</a>,
+      
       
       <a class="meta" href="/tags/slack">SLACK</a>
       
@@ -196,65 +203,78 @@
 
 
 
+<section id="menu-pane" class="menu text-center">
+  
+  <nav aria-label="Page navigation">
+    <ul class="pagination justify-content-center">
+      
+      
+      <li class="menu-item">
+        <a class="menu-item" href="https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/">&lt; prev</a>
+      </li>
+      
 
-<section id="menu-pane" class="row menu text-center">
+      <li class="menu-item">
+        
+        <span class="menu-item">&nbsp;|&nbsp;</span>
+        
+        <a class="menu-item" href="/blog">blog</a>
+        
+      </li>
+
+      
+      
+    </ul>
+  </nav>
   
-  
-  <span><a class="menu-item" href="https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/">&lt; prev | </a></span>
-  
-  
-  <span><a class="menu-item" href="/blog">blog</a></span>
-  
-  
-  
-  <h4 class="text-center"><a class="menu-item" href="https://sheremetat.dev/">home</a></h4>
+  <h4 class="text-center mt-3"><a class="menu-item" href="https://sheremetat.dev/">home</a></h4>
 </section>
 
-
-
-<footer class="row text-center footer">
+<footer class="text-center footer">
   <hr />
   
-  <h6 class="text-center copyright">© 2022. Taras Sheremeta. <a href="http://creativecommons.org/licenses/by/3.0/">Some Rights Reserved</a>.</h6>
+  <h6 class="text-center copyright">© 2024. Taras Sheremeta. <a href="http://creativecommons.org/licenses/by/3.0/">Some Rights Reserved</a>.</h6>
   
-  <h6 class="text-center powered">Powered by <a href="https://gohugo.io/">Hugo  v0.88.1</a> &amp; <a href="https://github.com/shenoybr/hugo-goa">Goa</a>.</h6>
+  <h6 class="text-center powered"><a href="https://gohugo.io/">Hugo</a> <a
+      href="https://github.com/kaapiandcode/hugo-goa">Goa</a> by <a href="https://kaapiandco.de">KaapiandCode</a> and <a
+      href="https://incirclemedia.com">Incircle Media</a></h6>
   
-      
-      <h6><a href="" aria-label="RSS Feed"><i class="fas fa-rss" aria-hidden="true"></i></a></h6>
-    
   
-</footer>
+  <h6>
+    <a href="https://sheremetat.dev/index.xml" aria-label="RSS Feed"><i class="fas fa-rss" aria-hidden="true"></i></a>
+  </h6>
+  
+  
 
+</footer>
 </div>
 
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 
-<script type="text/javascript">
-hljs.initHighlightingOnLoad();
-</script>
+
+<script>hljs.highlightAll();</script>
 
 
 
 
-<script type="application/javascript">
+<script>
 var doNotTrack = false;
 if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 	ga('create', 'UA-16429419-3', 'auto');
 	
 	ga('send', 'pageview');
 }
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="js/main.js"></script>
-<script src="js/custom.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="/js/custom.js"></script>
 </body>
-</html>
 
+</html>
 

@@ -6,28 +6,21 @@
     <description>Recent content in microservices on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #17: Для чого нам курси, менторство і про ускладнення простих речей</title>
       <link>https://sheremetat.dev/podcast/s2e8/</link>
       <pubDate>Sun, 17 May 2020 20:33:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e8/</guid>
-      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:
- Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:&#xA;Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo; Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
     <item>
       <title>Випуск #8: Ламповий Pet Project</title>
       <link>https://sheremetat.dev/podcast/s1e8/</link>
       <pubDate>Sun, 15 Jul 2018 12:49:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e8/</guid>
-      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:
- Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:&#xA;Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
   </channel>
 </rss>

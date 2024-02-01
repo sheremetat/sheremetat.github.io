@@ -5,6 +5,7 @@
     <link>https://sheremetat.dev/categories/</link>
     <description>Recent content in Categories on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://sheremetat.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <atom:link href="https://sheremetat.dev/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,17 +6,14 @@
     <description>Recent content in mongodb on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:49:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jul 2018 12:49:00 +0000</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #8: Ламповий Pet Project</title>
       <link>https://sheremetat.dev/podcast/s1e8/</link>
       <pubDate>Sun, 15 Jul 2018 12:49:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e8/</guid>
-      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:
- Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:&#xA;Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
   </channel>
 </rss>

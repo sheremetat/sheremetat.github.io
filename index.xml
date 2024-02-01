@@ -6,280 +6,189 @@
     <description>Recent content on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2024 21:34:26 +0300</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://sheremetat.dev/about/</link>
-      <pubDate>Wed, 19 Aug 2020 21:34:26 +0300</pubDate>
-      
+      <pubDate>Wed, 31 Jan 2024 21:34:26 +0300</pubDate>
       <guid>https://sheremetat.dev/about/</guid>
-      <description>Software Engineer with 15+ years background in the industry (7+ years in Java, 3+ years in Golang). During my career, I&amp;rsquo;ve designed and implemented software solutions for different platforms including web, mobile, desktop, and embedded systems. The past few years worked with high loaded applications with real-time pipelines using Golang, Java, Spring Boot, Kafka, Kafka Streams, AWS, etc. I’m a big fun of microservices architecture. Finished several projects as a developer and as a project leader.</description>
+      <description>Software Engineer with 20+ years background in the industry (10+ years in Java, 7+ years in Golang). During my career, I&amp;rsquo;ve designed and implemented software solutions for different platforms including web, mobile, desktop, and embedded systems. I&amp;rsquo;m experienced in building data processing pipelines with Kafka and Kafka Streams, creating a microservice architecture with Golang, Java, and Docker, and building real-time web applications. As a Tech/Team Lead, my experience is more than 5 years in different teams (from small teams with 3 team members to medium teams with 5-10 members).</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>https://sheremetat.dev/projects/</link>
       <pubDate>Wed, 19 Aug 2020 21:34:26 +0300</pubDate>
-      
       <guid>https://sheremetat.dev/projects/</guid>
-      <description>PE360 Online Know your team. Measure performance. Obtain feedback.  Performance Evaluation is defined as a formal procedure to measure an employee’s work and results based on their job responsibilities. PE360 Online provides all the required tools to make this process easy and simple.
-When I&amp;rsquo;ve been just a developer (and then team leader) in one of the Kyiv companies, every 6 months we had the performance evaluation HR meeting. Before this meeting developer and team leader have to fill a few questionaries in Excel format and then calculate developer performance at the meeting.</description>
+      <description>PE360 Online (concept) Know your team. Measure performance. Obtain feedback. Performance Evaluation is defined as a formal procedure to measure an employee’s work and results based on their job responsibilities. PE360 Online provides all the required tools to make this process easy and simple.&#xA;When I&amp;rsquo;ve been just a developer (and then team leader) in one of the Kyiv companies, every 6 months we had the performance evaluation HR meeting. Before this meeting developer and team leader have to fill a few questionaries in Excel format and then calculate developer performance at the meeting.</description>
     </item>
-    
     <item>
       <title>Випуск #17: Для чого нам курси, менторство і про ускладнення простих речей</title>
       <link>https://sheremetat.dev/podcast/s2e8/</link>
       <pubDate>Sun, 17 May 2020 20:33:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e8/</guid>
-      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:
- Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:&#xA;Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo; Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
     <item>
       <title>Випуск #16: Не тільки про Golang: хто такий fullstack девелопер?</title>
       <link>https://sheremetat.dev/podcast/s2e7/</link>
       <pubDate>Sat, 02 May 2020 19:08:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e7/</guid>
-      <description>У випуску говоримо про:
- Два слова про статистику і про методи тлумачення результатів статистичних досліджень Чи треба гоферу знати фронтенд? Хто такий fullstack девелопер і чому за ними майбутнє? Чому фулстак-2020 це не тільки бек і фронт, а ще і Docker, Kubernetes, DevOps, AWS? Запитання від Junior Go Developers: як менеджити групу паралельно запущених goroutines (про sync/errgroup і worker pool)? Запитання для співбесіди senior інженера: як ви оптимізуєте запити в базу даних (explain, profiler)?</description>
+      <description>У випуску говоримо про:&#xA;Два слова про статистику і про методи тлумачення результатів статистичних досліджень Чи треба гоферу знати фронтенд? Хто такий fullstack девелопер і чому за ними майбутнє? Чому фулстак-2020 це не тільки бек і фронт, а ще і Docker, Kubernetes, DevOps, AWS? Запитання від Junior Go Developers: як менеджити групу паралельно запущених goroutines (про sync/errgroup і worker pool)? Запитання для співбесіди senior інженера: як ви оптимізуєте запити в базу даних (explain, profiler)?</description>
     </item>
-    
     <item>
       <title>Випуск #15: Golang спецвипуск за мотивами менторських сесій</title>
       <link>https://sheremetat.dev/podcast/s2e6/</link>
       <pubDate>Tue, 21 Apr 2020 21:02:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e6/</guid>
-      <description>У випуску говоримо про:
- Переніс подкаст на новий хостинг, Telegram GitHub is now free for teams - переніс туди свій Pet Project. Кінець для Bitbucket? Інтерфейси в Go: dependency injections, Liskov substitution principle, приймай інтерфейс на вхід - повертай структуру, інтерфейс на стороні консюмера, не потрібно дублювати інтерфейсом свою структуру (це вам не Java) Запитання від Junior Go Developers: чи потрібно тестувати приватні методи (про юніт та інтерейшн тести з коробки)?</description>
+      <description>У випуску говоримо про:&#xA;Переніс подкаст на новий хостинг, Telegram GitHub is now free for teams - переніс туди свій Pet Project. Кінець для Bitbucket? Інтерфейси в Go: dependency injections, Liskov substitution principle, приймай інтерфейс на вхід - повертай структуру, інтерфейс на стороні консюмера, не потрібно дублювати інтерфейсом свою структуру (це вам не Java) Запитання від Junior Go Developers: чи потрібно тестувати приватні методи (про юніт та інтерейшн тести з коробки)?</description>
     </item>
-    
     <item>
       <title>Випуск #14: Хроніки карантинного режиму і Kubernetes</title>
       <link>https://sheremetat.dev/podcast/s2e5/</link>
       <pubDate>Fri, 10 Apr 2020 18:31:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e5/</guid>
-      <description>У випуску говоримо про:
- Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>У випуску говоримо про:&#xA;Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt; Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
     <item>
       <title>Випуск #13: Коронавірус та інші відсебеньки</title>
       <link>https://sheremetat.dev/podcast/s2e4/</link>
       <pubDate>Sun, 22 Mar 2020 16:57:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e4/</guid>
-      <description>У випуску говоримо про:
- Я вже і боюсь говорили про регулярність цього подкасту COVID-19: Work from home на постійній основі, Держава в смартфоні і вчителі онлайн, Ми стоїмо на порозі великих змін Тестове завдання з роботи - перевірка себе Ми неправильно вчимося. Ми розучилися вивчати тему - ми шукаємо готові рішення і тому як правило пропускаємо вступні розділи книг і курсів. Я для себе вирішив після прочитання книги чи курсу робити курсовий проект.</description>
+      <description>У випуску говоримо про:&#xA;Я вже і боюсь говорили про регулярність цього подкасту COVID-19: Work from home на постійній основі, Держава в смартфоні і вчителі онлайн, Ми стоїмо на порозі великих змін Тестове завдання з роботи - перевірка себе Ми неправильно вчимося. Ми розучилися вивчати тему - ми шукаємо готові рішення і тому як правило пропускаємо вступні розділи книг і курсів. Я для себе вирішив після прочитання книги чи курсу робити курсовий проект.</description>
     </item>
-    
     <item>
       <title>Випуск #12: KPI, Agile і холіваримо про Go</title>
       <link>https://sheremetat.dev/podcast/s2e3/</link>
       <pubDate>Sun, 03 Nov 2019 16:27:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e3/</guid>
-      <description>У випуску говоримо про:
- Чого мені не вистачає в Go:  Map/Reduce і map(), reduce(), filter() функції в slice і map Generics Named parameters Ternary operator async/await checked exceptions   Архітектура системи: AWS stack vs no vendor lock  DevOps driven architecture serverless architecture і vendor lock   Роздуми про КРІ  М.Дорофеев Шухарт, 6-сигма и люди снежинки с руками из жопы (Скрамомер и канбанометр) М.</description>
+      <description>У випуску говоримо про:&#xA;Чого мені не вистачає в Go: Map/Reduce і map(), reduce(), filter() функції в slice і map Generics Named parameters Ternary operator async/await checked exceptions Архітектура системи: AWS stack vs no vendor lock DevOps driven architecture serverless architecture і vendor lock Роздуми про КРІ М.Дорофеев Шухарт, 6-сигма и люди снежинки с руками из жопы (Скрамомер и канбанометр) М.Дорофеев Джедайские техники: Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо) М.</description>
     </item>
-    
     <item>
       <title>Випуск #11: Про Kafka Summit 2019 и Квантовий Комп&#39;ютер</title>
       <link>https://sheremetat.dev/podcast/s2e2/</link>
       <pubDate>Sun, 20 Oct 2019 17:27:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e2/</guid>
-      <description>Kafka тепер база даних? За мотивами Kafka Summit 2019: Why I Recommend My Clients NOT Use KSQL and Kafka Streams Стримінг і батч процессінг: є різниця. Обробка даних по одному чи &amp;ldquo;пачками&amp;rdquo;, подорожі в часі при обробці історичних даних. Принцип «KISS» Новини мого pet project: React vs Angular очима бекендера Дейв Чейні про internal packages Починайте уявляючи кінцевий результат Квантовий комп&amp;rsquo;ютер тоді і зараз Книга випуску Jyotiswarup Raiturkar Hands-On Software Architecture with Golang Відповідь на питання про Го в Україні    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>Kafka тепер база даних? За мотивами Kafka Summit 2019: Why I Recommend My Clients NOT Use KSQL and Kafka Streams Стримінг і батч процессінг: є різниця. Обробка даних по одному чи &amp;ldquo;пачками&amp;rdquo;, подорожі в часі при обробці історичних даних. Принцип «KISS» Новини мого pet project: React vs Angular очима бекендера Дейв Чейні про internal packages Починайте уявляючи кінцевий результат Квантовий комп&amp;rsquo;ютер тоді і зараз Книга випуску Jyotiswarup Raiturkar Hands-On Software Architecture with Golang Відповідь на питання про Го в Україні Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
     <item>
       <title>Випуск #10: Новий сезон подкасту і новий Pet Project</title>
       <link>https://sheremetat.dev/podcast/s2e1/</link>
       <pubDate>Sun, 06 Oct 2019 17:18:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e1/</guid>
-      <description>Рік на новій роботі: Golang тепер основна, висновки після року використання Traefik рулить Домашній проект заглох. Новый Pet Project цього разу серйозно.  проект на Indie Hackers landing page https://pe360.online/   Вибір бази даних та побудова архітектури. Порти і адаптери: гексагональна архітектура  Ports-And-Adapters / Hexagonal Architecture Подкаст Подлодка про DDD   Книга випуску про вади команди Пaтpiк Лeнcioнi &amp;ldquo;П&amp;rsquo;ять вaд у poбoтi кoмaнди. Icтopiї peaльниx викликiв тa пepeмoг&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>Рік на новій роботі: Golang тепер основна, висновки після року використання Traefik рулить Домашній проект заглох. Новый Pet Project цього разу серйозно. проект на Indie Hackers landing page https://pe360.online/ Вибір бази даних та побудова архітектури. Порти і адаптери: гексагональна архітектура Ports-And-Adapters / Hexagonal Architecture Подкаст Подлодка про DDD Книга випуску про вади команди Пaтpiк Лeнcioнi &amp;ldquo;П&amp;rsquo;ять вaд у poбoтi кoмaнди. Icтopiї peaльниx викликiв тa пepeмoг&amp;rdquo; Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
     <item>
       <title>Випуск #9: Go2, Менторство, Відміна GraphQL</title>
       <link>https://sheremetat.dev/podcast/s1e9/</link>
       <pubDate>Sun, 16 Sep 2018 15:11:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e9/</guid>
-      <description>Сьогодні говоримо про таке:
- Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot;    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:</description>
+      <description>Сьогодні говоримо про таке:&#xA;Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot; Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.</description>
     </item>
-    
     <item>
       <title>Випуск #8: Ламповий Pet Project</title>
       <link>https://sheremetat.dev/podcast/s1e8/</link>
       <pubDate>Sun, 15 Jul 2018 12:49:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e8/</guid>
-      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:
- Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:&#xA;Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
     <item>
       <title>Випуск #7: Вічний студент</title>
       <link>https://sheremetat.dev/podcast/s1e7/</link>
       <pubDate>Thu, 07 Dec 2017 20:09:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e7/</guid>
-      <description>Знову після невеличкої перерви до вашої уваги сьомий випуск мого подкасту! Сьогодні говоримо про таке:
- Для чого потрібно навчатись програмісту (відсебеньки) Ресурси для навчанняЖ  Udemy - від $10-15 за курс Pluralsight https://www.linkedin.com/learning/ Mongo University - безкоштовно Coursera Udacity Prometheus   Запитання слухачів: для чого нам Go? Книга випуску Скорочтение на практике. Как читать быстро и хорошо запоминать прочитанное Павел Палагин    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>Знову після невеличкої перерви до вашої уваги сьомий випуск мого подкасту! Сьогодні говоримо про таке:&#xA;Для чого потрібно навчатись програмісту (відсебеньки) Ресурси для навчанняЖ Udemy - від $10-15 за курс Pluralsight https://www.linkedin.com/learning/ Mongo University - безкоштовно Coursera Udacity Prometheus Запитання слухачів: для чого нам Go? Книга випуску Скорочтение на практике. Как читать быстро и хорошо запоминать прочитанное Павел Палагин Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon</description>
     </item>
-    
     <item>
       <title>Випуск #6: Запахологія коду</title>
       <link>https://sheremetat.dev/podcast/s1e6/</link>
       <pubDate>Wed, 25 Oct 2017 17:31:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e6/</guid>
-      <description>Після невеличкої перерви до вашої уваги шостий випуск мого подкасту! Сьогодні говоримо про:
- Запахи коду - серія статей в блозі компанії JetBrains  Null Deeply nested code Iteration Mutation Multi-responsibility methods If statements To many problems   Коли зупиняється Scrum - готуємо реліз до продакшну (відсебенька) Чому Agile ніколи не працює? Книга випуску Мудакам тут не місце. Як вижити в офісних джунглях Роберт Саттон    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>Після невеличкої перерви до вашої уваги шостий випуск мого подкасту! Сьогодні говоримо про:&#xA;Запахи коду - серія статей в блозі компанії JetBrains Null Deeply nested code Iteration Mutation Multi-responsibility methods If statements To many problems Коли зупиняється Scrum - готуємо реліз до продакшну (відсебенька) Чому Agile ніколи не працює? Книга випуску Мудакам тут не місце. Як вижити в офісних джунглях Роберт Саттон Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
     <item>
       <title>Випуск #5: Agile сертифікація: що і до чого</title>
       <link>https://sheremetat.dev/podcast/s1e5/</link>
       <pubDate>Mon, 25 Sep 2017 19:13:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e5/</guid>
-      <description>Вже п`ятий випуск мого подкасту! Сьогодні ні слова про блокчейн :). Говоримо про:&amp;lt;
- Сертифікація менеджерів PMI-ACP Книга випуску - Найбагатший чоловік у Вавилоні Джордж Клейсон    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:
- Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
+      <description>Вже п`ятий випуск мого подкасту! Сьогодні ні слова про блокчейн :). Говоримо про:&amp;lt;&#xA;Сертифікація менеджерів PMI-ACP Книга випуску - Найбагатший чоловік у Вавилоні Джордж Клейсон Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.bensound.com/</description>
     </item>
-    
     <item>
       <title>Випуск #4: Знову про блокчейн, але не тільки</title>
       <link>https://sheremetat.dev/podcast/s1e4/</link>
       <pubDate>Mon, 11 Sep 2017 21:06:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e4/</guid>
-      <description>Четвертий випуск мого подкасту. Сьогодні я знову говорив про блокчейн :)
- За пределами скучного блокчейн-пузыря Microsoft Announces Blockchain Governance Framework – Coco Сертифікація менеджерів - PMI-ACP Книга випуску - &amp;ldquo;Продається все. Джефф Безос та ера Amazon&amp;rdquo; Бред Стоун    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:
- Goodreads Telegram Twitter Facebook  Music by http://www.</description>
+      <description>Четвертий випуск мого подкасту. Сьогодні я знову говорив про блокчейн :)&#xA;За пределами скучного блокчейн-пузыря Microsoft Announces Blockchain Governance Framework – Coco Сертифікація менеджерів - PMI-ACP Книга випуску - &amp;ldquo;Продається все. Джефф Безос та ера Amazon&amp;rdquo; Бред Стоун Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.bensound.com/</description>
     </item>
-    
     <item>
       <title>Випуск #3: Смарт-Контракти</title>
       <link>https://sheremetat.dev/podcast/s1e3/</link>
       <pubDate>Sun, 27 Aug 2017 09:43:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e3/</guid>
-      <description>Третій випуск мого подкасту. Знову дещо сумбурним вийшов :(. Буду виправлятись в наступних випусках!
-Сьогодні я говорив про:
- Смарт-контракти або розумні контракти “Бульбашка” блокчейну Книга випуску Сохер Рокед “Людина втомлена” Фільм &amp;ldquo;Цукор&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:
- Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
+      <description>Третій випуск мого подкасту. Знову дещо сумбурним вийшов :(. Буду виправлятись в наступних випусках!&#xA;Сьогодні я говорив про:&#xA;Смарт-контракти або розумні контракти “Бульбашка” блокчейну Книга випуску Сохер Рокед “Людина втомлена” Фільм &amp;ldquo;Цукор&amp;rdquo; Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.bensound.com/</description>
     </item>
-    
     <item>
       <title>Випуск #2: GraphQL vs. REST</title>
       <link>https://sheremetat.dev/podcast/s1e2/</link>
       <pubDate>Mon, 14 Aug 2017 13:47:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e2/</guid>
-      <description>Другий випуск мого подкасту. Сьогодні я говорив про:
- Попередній випуск вийшов сумбурним Тепер і в iTunes REST vs GraphQL Тести в Facebook та безпека Книга випуску Донна Тартр Щиголь    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:
- Goodreads Telegram Twitter Facebook  Music by http://www.bensound.com/</description>
+      <description>Другий випуск мого подкасту. Сьогодні я говорив про:&#xA;Попередній випуск вийшов сумбурним Тепер і в iTunes REST vs GraphQL Тести в Facebook та безпека Книга випуску Донна Тартр Щиголь Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.bensound.com/</description>
     </item>
-    
     <item>
       <title>Створюємо простого Slack бота на Go</title>
       <link>https://sheremetat.dev/blog/%D1%81%D1%82%D0%B2%D0%BE%D1%80%D1%8E%D1%94%D0%BC%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D0%BE-slack-%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0-go/</link>
       <pubDate>Sun, 13 Aug 2017 12:53:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D1%81%D1%82%D0%B2%D0%BE%D1%80%D1%8E%D1%94%D0%BC%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D0%BE-slack-%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0-go/</guid>
-      <description>Вступ З мовою програмування Go я почав працювати відносно недавно і тепер розширюю площину її застосування. Традиційно, я почав з розробки мікросервісів, наступним етапом були децентралізовані програми та блокчейн на основі бібліотеки IPFS. Тепер я спробував написати свого простого бота для меседжера Slack. Результатом став цей простий тюторіал. Сподіваюсь, він допоможе комусь із вас написати свого власного бота.
-Ідея виникла, коли я випадково натрапив на проект Пятиминутка PHP - бот для Радио-Т на GitHub.</description>
+      <description>Вступ З мовою програмування Go я почав працювати відносно недавно і тепер розширюю площину її застосування. Традиційно, я почав з розробки мікросервісів, наступним етапом були децентралізовані програми та блокчейн на основі бібліотеки IPFS. Тепер я спробував написати свого простого бота для меседжера Slack. Результатом став цей простий тюторіал. Сподіваюсь, він допоможе комусь із вас написати свого власного бота.&#xA;Ідея виникла, коли я випадково натрапив на проект Пятиминутка PHP - бот для Радио-Т на GitHub.</description>
     </item>
-    
     <item>
       <title>Випуск #1: Децентралізовані програми та блокчейн</title>
       <link>https://sheremetat.dev/podcast/s1e1/</link>
       <pubDate>Mon, 07 Aug 2017 17:15:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e1/</guid>
-      <description>Записав перший випуск подкасту про децентралізовані програми та блокчейн. Сьогодні я говорив про:
- Golang і для чого він мені Децентралізовані програми - майбутнє нашого інтернету IPFS - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. Книга Чому нації занепадають?&amp;quot;(Джеймс Робінсон, Дарон Аджемоглу)    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:</description>
+      <description>Записав перший випуск подкасту про децентралізовані програми та блокчейн. Сьогодні я говорив про:&#xA;Golang і для чого він мені Децентралізовані програми - майбутнє нашого інтернету IPFS - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. Книга Чому нації занепадають?&amp;quot;(Джеймс Робінсон, Дарон Аджемоглу) Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.</description>
     </item>
-    
     <item>
       <title>Майстер-шеф: кухня проектного управління</title>
       <link>https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</link>
       <pubDate>Sun, 06 Aug 2017 16:15:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</guid>
       <description>Уявіть себе шеф-поваром ресторану, яких спеціалізується на стравах української, грузинської та італійської кухні. Одного ранку вам потрібно приготувати страви для обіду на 20 персон. В меню традиційні українські страви: борщ з пампушками, вареники, на десерт - штрудель з вишнями. У вашій команді 2 повари та 1 кондитер. Один ваш повар бере велику каструлю, ніж для овочів та інше необхідне для приготування борщу і починає готувати. Інший повар займається ліпленням вареників із вже готового картопляного пюре з допомогою скалки та ложки.</description>
     </item>
-    
     <item>
       <title>Скрінкаст: Вступ до тестування додатків для Android</title>
       <link>https://sheremetat.dev/blog/%D1%81%D0%BA%D1%80%D1%96%D0%BD%D0%BA%D0%B0%D1%81%D1%82-%D0%B2%D1%81%D1%82%D1%83%D0%BF-%D0%B4%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%96%D0%B2-%D0%B4%D0%BB%D1%8F-android/</link>
       <pubDate>Sat, 24 Jan 2015 21:54:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D1%81%D0%BA%D1%80%D1%96%D0%BD%D0%BA%D0%B0%D1%81%D1%82-%D0%B2%D1%81%D1%82%D1%83%D0%BF-%D0%B4%D0%BE-%D1%82%D0%B5%D1%81%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%96%D0%B2-%D0%B4%D0%BB%D1%8F-android/</guid>
-      <description>   Мої вітання, колеги. Я записав короткий огляд платформи Android для створення ефективник тестових сценаріїв.
- слайди YouTube  </description>
+      <description> Мої вітання, колеги. Я записав короткий огляд платформи Android для створення ефективник тестових сценаріїв.&#xA;слайди YouTube </description>
     </item>
-    
     <item>
       <title>Сертифікат про проходження тренінгу Project Management Fundamentals</title>
       <link>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</link>
       <pubDate>Fri, 14 Nov 2014 17:10:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82-%D0%BF%D1%80%D0%BE-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D1%96%D0%BD%D0%B3%D1%83-project-management-fundamentals/</guid>
-      <description>Рік тому я проходив тренінг Project Management Fundamentals, який проводила компанія International Institute for Learning, Inc. по замовленню компанї Samsung Electronics в Києві. Спочатку особливої уваги йому не надавав. Треніг як тренінг. Але, як виявилось, тренінг дає 21 Professional Development Units (PDUs) і вважається досить серйозним для старту в професійному проектному управлінні.
-Власне цим питанням я зацікавився при вивченні вимог до подачі заявки для сертифікації Project Management Professional (PMP)®.</description>
+      <description>Рік тому я проходив тренінг Project Management Fundamentals, який проводила компанія International Institute for Learning, Inc. по замовленню компанї Samsung Electronics в Києві. Спочатку особливої уваги йому не надавав. Треніг як тренінг. Але, як виявилось, тренінг дає 21 Professional Development Units (PDUs) і вважається досить серйозним для старту в професійному проектному управлінні.&#xA;Власне цим питанням я зацікавився при вивченні вимог до подачі заявки для сертифікації Project Management Professional (PMP)®. Підрахунок досвіду для сертифікації показав, що в мене замало досвіду (детально по проектах не вистачає приблизно одного року).</description>
     </item>
-    
     <item>
       <title>Правила Ашманова та інші корисні посилання в сфері управління проектами</title>
       <link>https://sheremetat.dev/blog/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B0%D1%88%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%82%D0%B0-%D1%96%D0%BD%D1%88%D1%96-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-%D1%81%D1%84%D0%B5%D1%80%D1%96-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</link>
       <pubDate>Fri, 14 Nov 2014 16:12:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B0%D1%88%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%82%D0%B0-%D1%96%D0%BD%D1%88%D1%96-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-%D1%81%D1%84%D0%B5%D1%80%D1%96-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</guid>
-      <description>Після майже року перерви в управлінні проектами вирішив згадати основи цього захоплюючого процесу. В результаті наштовхнувся на цілу купу цікавих матеріалів. Це і просто хороші статті, і якісні відео-доповіді. В основному вони стосуються класичного проектного менеджменту - PMI.
-Отже, нижче список статей с короткими коментарями. Цей список корисний для тих, хто тільки стає на шлях проектного управління, або вже став і хоче дізнатися про те, як це роблять інші.</description>
+      <description>Після майже року перерви в управлінні проектами вирішив згадати основи цього захоплюючого процесу. В результаті наштовхнувся на цілу купу цікавих матеріалів. Це і просто хороші статті, і якісні відео-доповіді. В основному вони стосуються класичного проектного менеджменту - PMI.&#xA;Отже, нижче список статей с короткими коментарями. Цей список корисний для тих, хто тільки стає на шлях проектного управління, або вже став і хоче дізнатися про те, як це роблять інші.</description>
     </item>
-    
     <item>
       <title>Кілька слів про місію компанії</title>
       <link>https://sheremetat.dev/blog/%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B0-%D1%81%D0%BB%D1%96%D0%B2-%D0%BF%D1%80%D0%BE-%D0%BC%D1%96%D1%81%D1%96%D1%8E-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97/</link>
       <pubDate>Wed, 29 May 2013 10:35:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B0-%D1%81%D0%BB%D1%96%D0%B2-%D0%BF%D1%80%D0%BE-%D0%BC%D1%96%D1%81%D1%96%D1%8E-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97/</guid>
-      <description>На сайтах багатьох компаній можна побачити розділ &amp;ldquo;наша місія&amp;rdquo;. Місію компанії друкують на рекламних буклетах, фірмових чашках чи біля логотипу на ресепшині. Там, як правило, написано одне або більше речень. Часто це абсолютно конкретні і чіткі цілі компанії, а інколи загальні фрази без конкретики.
-Публікація місії компанії несе в собі певну задачу і це задача переконати користувачів чи потенційних клієнтів в надійності компанії. Текст, закладений в місію, повинен інформувати та переконувати в тому, що компанія зробить все можливе, для задоволення потреб своїх клієнтів.</description>
+      <description>На сайтах багатьох компаній можна побачити розділ &amp;ldquo;наша місія&amp;rdquo;. Місію компанії друкують на рекламних буклетах, фірмових чашках чи біля логотипу на ресепшині. Там, як правило, написано одне або більше речень. Часто це абсолютно конкретні і чіткі цілі компанії, а інколи загальні фрази без конкретики.&#xA;Публікація місії компанії несе в собі певну задачу і це задача переконати користувачів чи потенційних клієнтів в надійності компанії. Текст, закладений в місію, повинен інформувати та переконувати в тому, що компанія зробить все можливе, для задоволення потреб своїх клієнтів.</description>
     </item>
-    
     <item>
       <title>Дві книжки про лідерство</title>
       <link>https://sheremetat.dev/blog/%D0%B4%D0%B2%D1%96-%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%96%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE/</link>
       <pubDate>Sun, 12 May 2013 10:18:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D0%B4%D0%B2%D1%96-%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%96%D0%B4%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE/</guid>
       <description>Не так давно я брав участь у тренінгу про лідерство. Сам тренінг мені не сподобався. По-перше, тренер практично не робив висновків після практичних занять. По-друге, теорія була сильно &amp;ldquo;водяниста&amp;rdquo; і слабо структурована. Можливо, в цьому пункті в силу своєї професії, я помиляюсь. :). По-третє, тренінг мені видався нецікавим. Проте він сформував великий список запитань, на які потрібно було знайти відповіді. Хто такий лідер? Як стати лідером? Яка різниця між лідерством і управлінням?</description>
     </item>
-    
   </channel>
 </rss>

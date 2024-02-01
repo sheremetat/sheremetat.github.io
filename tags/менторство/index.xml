@@ -6,29 +6,21 @@
     <description>Recent content in менторство on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 May 2020 20:33:00 +0000</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/tags/%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #17: Для чого нам курси, менторство і про ускладнення простих речей</title>
       <link>https://sheremetat.dev/podcast/s2e8/</link>
       <pubDate>Sun, 17 May 2020 20:33:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e8/</guid>
-      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:
- Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Випуск вийшов рекордним за тривалістю. Сьогодні говоримо про:&#xA;Для чого потрібні курси? Як працює програма менторства в компанії, як її запустити та як після цього втримати працівників Мікросервіси більше не потрібні? Неоднозначно про GraphQL і ускладнення простих речей додатковими рівнями абстракції Різні типи Enterprise API (Public API, Private API, Partner API) Серіал &amp;ldquo;Devs&amp;rdquo; Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
     <item>
       <title>Випуск #9: Go2, Менторство, Відміна GraphQL</title>
       <link>https://sheremetat.dev/podcast/s1e9/</link>
       <pubDate>Sun, 16 Sep 2018 15:11:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e9/</guid>
-      <description>Сьогодні говоримо про таке:
- Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot;    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon
-Я в соціальних мережах:</description>
+      <description>Сьогодні говоримо про таке:&#xA;Go1.11 та Go2 нарешті dependency management і джерерики Швидкість чи якість - як знайти баланс Менторство як воно Pet project - GraphQL поки відміняється Різноманіття повинно бути одноманітним - будуємо API Web сервісу Книга випуску “Сила інтровертів. Тихі люди у світі, що не може мовчати&amp;quot; Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:&#xA;Goodreads Telegram Twitter Facebook Music by http://www.</description>
     </item>
-    
   </channel>
 </rss>

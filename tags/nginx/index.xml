@@ -6,15 +6,14 @@
     <description>Recent content in nginx on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Oct 2019 17:18:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2019 17:18:00 +0000</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #10: Новий сезон подкасту і новий Pet Project</title>
       <link>https://sheremetat.dev/podcast/s2e1/</link>
       <pubDate>Sun, 06 Oct 2019 17:18:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e1/</guid>
-      <description>Рік на новій роботі: Golang тепер основна, висновки після року використання Traefik рулить Домашній проект заглох. Новый Pet Project цього разу серйозно.  проект на Indie Hackers landing page https://pe360.online/   Вибір бази даних та побудова архітектури. Порти і адаптери: гексагональна архітектура  Ports-And-Adapters / Hexagonal Architecture Подкаст Подлодка про DDD   Книга випуску про вади команди Пaтpiк Лeнcioнi &amp;ldquo;П&amp;rsquo;ять вaд у poбoтi кoмaнди. Icтopiї peaльниx викликiв тa пepeмoг&amp;rdquo;    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>Рік на новій роботі: Golang тепер основна, висновки після року використання Traefik рулить Домашній проект заглох. Новый Pet Project цього разу серйозно. проект на Indie Hackers landing page https://pe360.online/ Вибір бази даних та побудова архітектури. Порти і адаптери: гексагональна архітектура Ports-And-Adapters / Hexagonal Architecture Подкаст Подлодка про DDD Книга випуску про вади команди Пaтpiк Лeнcioнi &amp;ldquo;П&amp;rsquo;ять вaд у poбoтi кoмaнди. Icтopiї peaльниx викликiв тa пepeмoг&amp;rdquo; Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
   </channel>
 </rss>

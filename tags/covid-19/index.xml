@@ -6,26 +6,21 @@
     <description>Recent content in covid-19 on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Apr 2020 18:31:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2020 18:31:00 +0000</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #14: Хроніки карантинного режиму і Kubernetes</title>
       <link>https://sheremetat.dev/podcast/s2e5/</link>
       <pubDate>Fri, 10 Apr 2020 18:31:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e5/</guid>
-      <description>У випуску говоримо про:
- Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt;    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>У випуску говоримо про:&#xA;Хроніки карантинного режиму: нове крісло і готовий домашній офіс, розчехлив PS4 Чи готові ми до повного remote? Як воно бути менеджером remote? Все залежить від того як у вас побудовані процеси в offline&amp;lt; Трохи філософських думок про тернарний оператор і запашок від коду з else операторами Кодив на Go Pet Project, але більше конфігурував СІ/CD -Kubernetes змінив правила гри? Десь ми це вже бачили&amp;hellip; :) Книга випуску Shape Up: Stop Running in Circles and Ship Work that Matters&amp;quot; від Basecamp Підглядаючи за дорослими, завів собі Patreon і оновив канал в Telegram&amp;lt; Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
     <item>
       <title>Випуск #13: Коронавірус та інші відсебеньки</title>
       <link>https://sheremetat.dev/podcast/s2e4/</link>
       <pubDate>Sun, 22 Mar 2020 16:57:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e4/</guid>
-      <description>У випуску говоримо про:
- Я вже і боюсь говорили про регулярність цього подкасту COVID-19: Work from home на постійній основі, Держава в смартфоні і вчителі онлайн, Ми стоїмо на порозі великих змін Тестове завдання з роботи - перевірка себе Ми неправильно вчимося. Ми розучилися вивчати тему - ми шукаємо готові рішення і тому як правило пропускаємо вступні розділи книг і курсів. Я для себе вирішив після прочитання книги чи курсу робити курсовий проект.</description>
+      <description>У випуску говоримо про:&#xA;Я вже і боюсь говорили про регулярність цього подкасту COVID-19: Work from home на постійній основі, Держава в смартфоні і вчителі онлайн, Ми стоїмо на порозі великих змін Тестове завдання з роботи - перевірка себе Ми неправильно вчимося. Ми розучилися вивчати тему - ми шукаємо готові рішення і тому як правило пропускаємо вступні розділи книг і курсів. Я для себе вирішив після прочитання книги чи курсу робити курсовий проект.</description>
     </item>
-    
   </channel>
 </rss>

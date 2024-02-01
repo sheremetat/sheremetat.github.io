@@ -6,56 +6,42 @@
     <description>Recent content in Scrum on Taras Sheremeta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Nov 2019 16:27:00 +0000</lastBuildDate><atom:link href="https://sheremetat.dev/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Nov 2019 16:27:00 +0000</lastBuildDate>
+    <atom:link href="https://sheremetat.dev/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Випуск #12: KPI, Agile і холіваримо про Go</title>
       <link>https://sheremetat.dev/podcast/s2e3/</link>
       <pubDate>Sun, 03 Nov 2019 16:27:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s2e3/</guid>
-      <description>У випуску говоримо про:
- Чого мені не вистачає в Go:  Map/Reduce і map(), reduce(), filter() функції в slice і map Generics Named parameters Ternary operator async/await checked exceptions   Архітектура системи: AWS stack vs no vendor lock  DevOps driven architecture serverless architecture і vendor lock   Роздуми про КРІ  М.Дорофеев Шухарт, 6-сигма и люди снежинки с руками из жопы (Скрамомер и канбанометр) М.</description>
+      <description>У випуску говоримо про:&#xA;Чого мені не вистачає в Go: Map/Reduce і map(), reduce(), filter() функції в slice і map Generics Named parameters Ternary operator async/await checked exceptions Архітектура системи: AWS stack vs no vendor lock DevOps driven architecture serverless architecture і vendor lock Роздуми про КРІ М.Дорофеев Шухарт, 6-сигма и люди снежинки с руками из жопы (Скрамомер и канбанометр) М.Дорофеев Джедайские техники: Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо) М.</description>
     </item>
-    
     <item>
       <title>Випуск #8: Ламповий Pet Project</title>
       <link>https://sheremetat.dev/podcast/s1e8/</link>
       <pubDate>Sun, 15 Jul 2018 12:49:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e8/</guid>
-      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:
- Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба    Слухайте та підписуйтесь по RSS або в itunes
-Пригостити мене кавою можна на Patreon</description>
+      <description>Після піврічної перерви до вашої уваги восьмий випуск мого подкасту! Сьогодні говоримо про таке:&#xA;Мікросервіси - коли і як. Антипатерни мікросервісів Як розділити функції між бекендом і фронтендом Почав писати ламповий pet project на Golang Офіційний mongo-go-driver ще не фонтан - mgo наше все Кілька слів про Definition-Of-Ready Книга випуску Чорний лебідь Насіма Талеба Слухайте та підписуйтесь по RSS або в itunes&#xA;Пригостити мене кавою можна на Patreon&#xA;Я в соціальних мережах:</description>
     </item>
-    
     <item>
       <title>Випуск #6: Запахологія коду</title>
       <link>https://sheremetat.dev/podcast/s1e6/</link>
       <pubDate>Wed, 25 Oct 2017 17:31:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/podcast/s1e6/</guid>
-      <description>Після невеличкої перерви до вашої уваги шостий випуск мого подкасту! Сьогодні говоримо про:
- Запахи коду - серія статей в блозі компанії JetBrains  Null Deeply nested code Iteration Mutation Multi-responsibility methods If statements To many problems   Коли зупиняється Scrum - готуємо реліз до продакшну (відсебенька) Чому Agile ніколи не працює? Книга випуску Мудакам тут не місце. Як вижити в офісних джунглях Роберт Саттон    Слухайте та підписуйтесь по RSS або в itunes</description>
+      <description>Після невеличкої перерви до вашої уваги шостий випуск мого подкасту! Сьогодні говоримо про:&#xA;Запахи коду - серія статей в блозі компанії JetBrains Null Deeply nested code Iteration Mutation Multi-responsibility methods If statements To many problems Коли зупиняється Scrum - готуємо реліз до продакшну (відсебенька) Чому Agile ніколи не працює? Книга випуску Мудакам тут не місце. Як вижити в офісних джунглях Роберт Саттон Слухайте та підписуйтесь по RSS або в itunes</description>
     </item>
-    
     <item>
       <title>Майстер-шеф: кухня проектного управління</title>
       <link>https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</link>
       <pubDate>Sun, 06 Aug 2017 16:15:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D0%BC%D0%B0%D0%B9%D1%81%D1%82%D0%B5%D1%80-%D1%88%D0%B5%D1%84-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F/</guid>
       <description>Уявіть себе шеф-поваром ресторану, яких спеціалізується на стравах української, грузинської та італійської кухні. Одного ранку вам потрібно приготувати страви для обіду на 20 персон. В меню традиційні українські страви: борщ з пампушками, вареники, на десерт - штрудель з вишнями. У вашій команді 2 повари та 1 кондитер. Один ваш повар бере велику каструлю, ніж для овочів та інше необхідне для приготування борщу і починає готувати. Інший повар займається ліпленням вареників із вже готового картопляного пюре з допомогою скалки та ложки.</description>
     </item>
-    
     <item>
       <title>Правила Ашманова та інші корисні посилання в сфері управління проектами</title>
       <link>https://sheremetat.dev/blog/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B0%D1%88%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%82%D0%B0-%D1%96%D0%BD%D1%88%D1%96-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-%D1%81%D1%84%D0%B5%D1%80%D1%96-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</link>
       <pubDate>Fri, 14 Nov 2014 16:12:00 +0000</pubDate>
-      
       <guid>https://sheremetat.dev/blog/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D0%B0%D1%88%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D1%82%D0%B0-%D1%96%D0%BD%D1%88%D1%96-%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D1%96-%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-%D1%81%D1%84%D0%B5%D1%80%D1%96-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8/</guid>
-      <description>Після майже року перерви в управлінні проектами вирішив згадати основи цього захоплюючого процесу. В результаті наштовхнувся на цілу купу цікавих матеріалів. Це і просто хороші статті, і якісні відео-доповіді. В основному вони стосуються класичного проектного менеджменту - PMI.
-Отже, нижче список статей с короткими коментарями. Цей список корисний для тих, хто тільки стає на шлях проектного управління, або вже став і хоче дізнатися про те, як це роблять інші.</description>
+      <description>Після майже року перерви в управлінні проектами вирішив згадати основи цього захоплюючого процесу. В результаті наштовхнувся на цілу купу цікавих матеріалів. Це і просто хороші статті, і якісні відео-доповіді. В основному вони стосуються класичного проектного менеджменту - PMI.&#xA;Отже, нижче список статей с короткими коментарями. Цей список корисний для тих, хто тільки стає на шлях проектного управління, або вже став і хоче дізнатися про те, як це роблять інші.</description>
     </item>
-    
   </channel>
 </rss>
